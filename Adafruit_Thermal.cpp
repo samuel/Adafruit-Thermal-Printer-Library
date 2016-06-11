@@ -18,6 +18,8 @@
   MIT license, all text above must be included in any redistribution.
   ------------------------------------------------------------------------*/
 
+
+#include "application.h"
 #include "Adafruit_Thermal.h"
 
 // Though most of these printers are factory configured for 19200 baud

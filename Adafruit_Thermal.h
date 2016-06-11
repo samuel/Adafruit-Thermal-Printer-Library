@@ -26,8 +26,6 @@
 // integerized, e.g. 268 = 2.68 firmware.
 #define PRINTER_FIRMWARE 268
 
-#include "Arduino.h"
-
 // Barcode types and charsets
 #if PRINTER_FIRMWARE >= 264
  #define UPC_A   65
